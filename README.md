@@ -1,6 +1,8 @@
 # Reto-12
 
 1. 
+Consulte que hacen los siguientes métodos de cadenas en Python: termina con, comienza con, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
+
 
 
 -Desarrollando el primer punto 
